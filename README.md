@@ -1,10 +1,11 @@
 ## ContactPro 🚀
 Modern contact and lightweight CRM workspace built with Laravel. Manage contacts, stages, owners, imports, and a live dashboard with minimal setup.
-
 ### 📸 Screenshots
-| Dashboard | Growth by stage | Contacts | Register | Login |
-| --- | --- | --- | --- | --- |
-| ![Dashboard](public/screenshots/screencapture-localhost-8000-dashboard-2026-02-07-12_34_01.png) | ![Stage](public/screenshots/screencapture-localhost-8000-dashboard-2026-02-07-12_34_13.png) | ![Contacts](public/screenshots/screencapture-localhost-8000-contacts-2026-02-07-12_32_55.png) | ![Register](public/screenshots/screencapture-localhost-8000-register-2026-02-07-12_32_10.png) | ![Login](public/screenshots/screencapture-localhost-8000-login-2026-02-07-12_31_55.png) |
+- **Dashboard:** `public/screenshots/screencapture-localhost-8000-dashboard-2026-02-07-12_34_01.png`
+- **Growth by stage:** `public/screenshots/screencapture-localhost-8000-dashboard-2026-02-07-12_34_13.png`
+- **Contacts:** `public/screenshots/screencapture-localhost-8000-contacts-2026-02-07-12_32_55.png`
+- **Register:** `public/screenshots/screencapture-localhost-8000-register-2026-02-07-12_32_10.png`
+- **Login:** `public/screenshots/screencapture-localhost-8000-login-2026-02-07-12_31_55.png`
 
 ### ✨ Highlights
 - 📊 Live dashboard: monthly growth and stage breakdown by user.
